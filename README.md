@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imharsh57
 - 👀 I’m interested in Java Full Stack Project
-- 🌱 I’m currently learning Java Full Stack
+- 🌱 I’m currently working as Java Full Stack Developer
 - 💞️ I’m looking to collaborate on GIT Hub
 - 📫 Contact Mail - harshanand19@gmail.com
 
